@@ -1,27 +1,41 @@
-# MECO | Es personal
+# MECO - Es personal
 
-¡Bienvenido al repositorio de **MECO**! Este proyecto es una landing page moderna, elegante y totalmente responsiva diseñada para una marca de regalos, recuerdos y producciones impresas personalizadas.
+## Descripción
 
-El sitio web está optimizado para capturar el interés del usuario mediante una experiencia visual cuidada, tipografías sofisticadas y una navegación fluida entre secciones.
+MECO es un emprendimiento dedicado a la creación de productos personalizados y regalos para diferentes ocasiones.
 
----
+Este proyecto consiste en el desarrollo de una página web para presentar la identidad de MECO, sus principales productos y facilitar el contacto con potenciales clientes.
 
-## Estructura del Proyecto
+## Productos
 
-El sitio web está compuesto por las siguientes secciones principales:
-*   **Header / Navegación:** Menú limpio con acceso directo a las distintas secciones mediante enlaces internos.
-*   **Inicio (Hero Section):** Portada de alto impacto visual con un overlay de color adaptable, textos destacados y llamada a la acción (*Ver productos*).
-*   **Productos:** Catálogo en cuadrícula (*Grid/Flexbox*) que muestra artículos principales como Tazas personalizadas, Fotos e impresiones y Jarros térmicos.
-*   **MECO Empresas:** Sección corporativa dedicada a producciones personalizadas para marcas, proyectos y emprendimientos.
-*   **Recuerdos:** Espacio minimalista enfocado en formatos impresos pequeños (Polaroids e impresiones analógicas).
-*   **Reseñas:** Carrusel o contenedor de testimonios reales para construir confianza y credibilidad con la audiencia.
-*   **Contacto:** Formulario funcional integrado mediante **Formspree** para recibir consultas de clientes de forma directa en el correo electrónico.
+La página presenta diferentes opciones de productos personalizados, entre ellos:
 
----
+- Tazas personalizadas
+- Jarros térmicos
+- Fotos e impresiones
 
-## Tecnologías y Herramientas utilizadas
+También incluye una sección de reseñas y un formulario de contacto para realizar consultas.
 
-*   **HTML5:** Estructura semántica correcta (etiquetas `header`, `main`, `section`, `article`, `nav`, `form`).
-*   **CSS3:** Estilos avanzados, fuentes optimizadas y maquetación adaptable.
-*   **Google Fonts:** Combinación tipográfica premium usando **Playfair Display** para los títulos elegantes y **Montserrat** para una excelente legibilidad en los textos.
-*   **Formspree:** Backend integrado para el funcionamiento del formulario de contacto sin necesidad de programar servidores.
+## Tecnologías utilizadas
+
+- HTML5
+- CSS3
+- Google Fonts
+- Flexbox
+- CSS Grid
+- Media Queries
+- Formspree
+
+## Características del sitio
+
+- Diseño responsive para diferentes tamaños de pantalla.
+- Navegación interna mediante enlaces.
+- Cards de productos organizadas con Flexbox.
+- Sección de reseñas organizada mediante CSS Grid.
+- Formulario de contacto funcional mediante Formspree.
+- Uso de imágenes y recursos multimedia.
+- Estructura HTML semántica.
+
+## Objetivo
+
+El objetivo del proyecto es desarrollar una página web sencilla, funcional y responsive que represente la identidad visual de MECO y permita mostrar sus productos y facilitar el contacto con sus clientes.
