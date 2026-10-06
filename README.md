@@ -8,7 +8,7 @@ Este proyecto consiste en el desarrollo de una página web para presentar la ide
 
 ## Productos
 
-La página presenta diferentes opciones de productos personalizados, entre ellos:
+La página presenta diferentes opciones de productos personalizados, entre ellos: 
 
 - Tazas personalizadas
 - Jarros térmicos
