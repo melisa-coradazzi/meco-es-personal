@@ -1,4 +1,4 @@
-# MECO | Es personal 🎁
+# MECO | Es personal
 
 ¡Bienvenido al repositorio de **MECO**! Este proyecto es una landing page moderna, elegante y totalmente responsiva diseñada para una marca de regalos, recuerdos y producciones impresas personalizadas.
 
@@ -6,7 +6,7 @@ El sitio web está optimizado para capturar el interés del usuario mediante una
 
 ---
 
-## 🛠️ Estructura del Proyecto
+## Estructura del Proyecto
 
 El sitio web está compuesto por las siguientes secciones principales:
 *   **Header / Navegación:** Menú limpio con acceso directo a las distintas secciones mediante enlaces internos.
@@ -19,26 +19,9 @@ El sitio web está compuesto por las siguientes secciones principales:
 
 ---
 
-## 🚀 Tecnologías y Herramientas utilizadas
+## Tecnologías y Herramientas utilizadas
 
 *   **HTML5:** Estructura semántica correcta (etiquetas `header`, `main`, `section`, `article`, `nav`, `form`).
 *   **CSS3:** Estilos avanzados, fuentes optimizadas y maquetación adaptable.
 *   **Google Fonts:** Combinación tipográfica premium usando **Playfair Display** para los títulos elegantes y **Montserrat** para una excelente legibilidad en los textos.
 *   **Formspree:** Backend integrado para el funcionamiento del formulario de contacto sin necesidad de programar servidores.
-
----
-
-## 📦 Instalación y Vista Local
-
-Si querés ver el proyecto corriendo en tu computadora, seguí estos simples pasos:
-
-1. **Cloná el repositorio** en tu máquina:
-   ```bash
-   git clone https://github.com
-   ```
-2. **Navegá a la carpeta** del proyecto:
-   ```bash
-   cd tu-repositorio
-   ```
-3. **Abrí el archivo principal** en tu navegador:
-   * Simplemente dale doble clic a `index.html` o usá la extensión *Live Server* en Visual Studio Code.
